@@ -1,4 +1,4 @@
-# EmployeeWagesCalculator
+# EmployeeWageCalculator
 
 ## Overview
 
